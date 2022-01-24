@@ -15,7 +15,11 @@ The school board has notified Maria and her supervisor that the students_complet
     ![spending-old](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/spending_summary-old.png)
     ![spending_new](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/spending_summary_new.png)
     3. Scores by school size
+    ![size_old](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/size_summary_old.png)
+    ![size_new](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/size_summary_new.png)
     4. Scores by school type
+    ![type_old](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/type_summary_old.png)
+    ![type_new](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/type_summary_new.png)
 *
 ## Summary: 
 Changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs are as follows:

@@ -9,11 +9,14 @@ The school board has notified Maria and her supervisor that the students_complet
 ![district-summary-old](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/District_summary_old.PNG)
 ![district-summary-new](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/District_summary_new.png)
 * How is the school summary affected?
+![school_summary](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/District_summary_new.png)
+![school_summary_new](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/District_summary_old.PNG)
 * How does replacing the ninth graders math and reading scores affect Thomas High Schools performance relative to the other schools?
 ![math-THS]()
 ![reading-THS]()
 * How does replacing the ninth-grade scores affect the following:
     1. Math and reading scores by grade
+    Math scores in Thomas High School was unaffected but reading scores in other grades were changed.
     ![math-old](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/math_old.png)
     ![math-new](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/math_new.png)
     ![reading-old](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/reading_old.png)

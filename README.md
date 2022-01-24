@@ -7,7 +7,7 @@ The school board has notified Maria and her supervisor that the  [students_compl
 
 Here in School_District_Analysis project I compared the analysis before and after  reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.The code for before replacing is [PyCitySchools](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/PyCitySchools.ipynb)
 And after replacing is [PyCitySchools_Challenge](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
-![PyCitySchools_Challenge]()
+
 The csv data used here is [schools_complete.csv](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/Resources/schools_complete.csv)
 [students_complete.csv](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/Resources/students_complete.csv)
 

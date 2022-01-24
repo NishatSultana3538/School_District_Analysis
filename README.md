@@ -5,8 +5,8 @@ The school board has notified Maria and her supervisor that the  [students_compl
 
 ## Results: 
 
-Here in School_District_Analysis project I compared the analysis before and after  reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.The code for before replacing is [PyCitySchools]()
-And after replacing is [PyCitySchools_Challenge]()
+Here in School_District_Analysis project I compared the analysis before and after  reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.The code for before replacing is [PyCitySchools](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/PyCitySchools.ipynb)
+And after replacing is [PyCitySchools_Challenge](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
 ![PyCitySchools_Challenge]()
 The csv data used here is [schools_complete.csv](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/Resources/schools_complete.csv)
 [students_complete.csv](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/Resources/students_complete.csv)
@@ -14,14 +14,14 @@ The csv data used here is [schools_complete.csv](https://github.com/NishatSultan
 * How is the district summary affected? District summary data didn't affected much as it only change by average math score by 0.1, passing math percentage by 0.2%, passing reading percentage by 0.1% , overall passing percentage by 0.3%  and Average Reading Score  didn't change . This is expected as the number of student in 9th grade from Thomas High School is low compared to total student in the district. 
 ![district-summary-old](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/District_summary_old.PNG)
 ![district-summary-new](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/District_summary_new.png)
-* How is the school summary affected?
+* How is the school summary affected? After caculation the new school summary math , reading score and math, reading and overall percentage changes slightly.
 ![school_summary](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/school_summary_old.png)
 ![school_summary_new](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/school_summary_new.png)
 * How does replacing the ninth graders math and reading scores affect Thomas High Schools performance relative to the other schools?
-
+Replacing ninth graders data slightly changes math and reading scores for Thomas High Schools performance relative to the other schools. 
 * How does replacing the ninth-grade scores affect the following:
     1. Math and reading scores by grade
-    Math scores in Thomas High School was unaffected but reading scores in other grades were changed.
+    Math scores in Thomas Hig School was unaffected but reading scores in other grades were changed.
     ![math-old](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/math_old.png)
     ![math-new](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/math_new.png)
     ![reading-old](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/reading_old.png)
@@ -35,14 +35,18 @@ The csv data used here is [schools_complete.csv](https://github.com/NishatSultan
     4. Scores by school type was slightly changes in charter type school data.
     ![type_old](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/type_summary_old.png)
     ![type_new](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/type_summary_new.png)
-*
+
 ## Summary: 
 Changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs are as follows:
 
-1. 
-2. 
-3. 
-4. 
+1. Scores by school size was slightly changes in medium size(1000-2000) school data. 
+2. Scores by school spending was slightly changes in $630-644 range data. 
+3. Scores by school type was slightly changes in charter type school data.
+4. School Summary data and District Summary data was changed slightly for the math & reading score and percentages.
+
+### Conclusion
+
+The School_District_Analysis data after replacing reading and math scores changes only slightly in the district data and school summary data as the number of student in 9th grade in Thomas High School (461) is few compared to total student (39170).
 
 
 

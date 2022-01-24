@@ -5,10 +5,11 @@ The school board has notified Maria and her supervisor that the  [students_compl
 
 ## Results: 
 
-Here in School_District_Analysis project I compared the analysis before and after  reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.The code for before replacing is [PyCitySchools](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/PyCitySchools.ipynb)
-And after replacing is [PyCitySchools_Challenge](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
+Here in School_District_Analysis project I compared the analysis before and after  reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. The code for before replacing is [PyCitySchools](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/PyCitySchools.ipynb)
+ 
+ And after replacing is [PyCitySchools_Challenge](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
 
-The csv data used here is [schools_complete.csv](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/Resources/schools_complete.csv)
+The csv data used here is [schools_complete.csv](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/Resources/schools_complete.csv) & 
 [students_complete.csv](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/Resources/students_complete.csv)
 
 * How is the district summary affected? District summary data didn't affected much as it only change by average math score by 0.1, passing math percentage by 0.2%, passing reading percentage by 0.1% , overall passing percentage by 0.3%  and Average Reading Score  didn't change . This is expected as the number of student in 9th grade from Thomas High School is low compared to total student in the district. 

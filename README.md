@@ -6,18 +6,25 @@ The school board has notified Maria and her supervisor that the students_complet
 ## Results: 
 
 * How is the district summary affected? District summary data didn't affected much as it only change by average math score by 0.1, passing math percentage by 0.2%, passing reading percentage by 0.1% , overall passing percentage by 0.3%  and Average Reading Score  didn't change . This is expected as the number of student in 9th grade from Thomas High School is low compared to total student in the district. 
+![district-summary-old](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/District_summary_old.PNG)
+![district-summary-new](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/District_summary_new.png)
 * How is the school summary affected?
 * How does replacing the ninth graders math and reading scores affect Thomas High Schools performance relative to the other schools?
+![math-THS]()
+![reading-THS]()
 * How does replacing the ninth-grade scores affect the following:
     1. Math and reading scores by grade
-
-    2. Scores by school spending
+    ![math-old](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/math_old.png)
+    ![math-new](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/math_new.png)
+    ![reading-old](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/reading_old.png)
+    ![reading-new](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/reading_new.png)
+    2. Scores by school spending was slightly changes in $630-644 range data.
     ![spending-old](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/spending_summary-old.png)
     ![spending_new](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/spending_summary_new.png)
-    3. Scores by school size
+    3. Scores by school size was slightly changes in medium size(1000-2000) school data.
     ![size_old](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/size_summary_old.png)
     ![size_new](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/size_summary_new.png)
-    4. Scores by school type
+    4. Scores by school type was slightly changes in charter type school data.
     ![type_old](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/type_summary_old.png)
     ![type_new](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/type_summary_new.png)
 *

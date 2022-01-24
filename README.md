@@ -21,7 +21,7 @@ The csv data used here is [schools_complete.csv](https://github.com/NishatSultan
 Replacing ninth graders data slightly changes math and reading scores for Thomas High Schools performance relative to the other schools. 
 * How does replacing the ninth-grade scores affect the following:
     1. Math and reading scores by grade
-    Math scores in Thomas Hig School was unaffected but reading scores in other grades were changed.
+    Math scores in Thomas Hig School was unaffected.
     ![math-old](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/math_old.png)
     ![math-new](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/math_new.png)
     ![reading-old](https://github.com/NishatSultana3538/School_District_Analysis/blob/main/analysis/reading_old.png)
